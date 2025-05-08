@@ -1,6 +1,6 @@
-# Quiz 8_Design research for main assignment
+# Quiz 8_Design research for major assignment
 ## Part 1 Imaging Technique Inspiration
-I was inspired by **Yayoi Kusama’s** polka dot hallucinations and emotions, and I want to use repeating patterns made by code to show how fear spreads and control is lost in *The Scream*, creating a feeling of chaos and falling apart.
+Our team choose the artwork **Edvard Munch-'The Scream'**. I was inspired by **Yayoi Kusama’s** polka dot hallucinations and emotions, and I want to use repeating patterns made by code to show how fear spreads and control is lost in *The Scream*, creating a feeling of chaos and falling apart.
 
 ![An image of Yayoi Kusama’s polka dot](readmeImages/dot1.jpg)
 ![An image of Yayoi Kusama's Infinity Mirror Rooms](readmeImages/dot2.png)
